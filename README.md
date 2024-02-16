@@ -1,2 +1,2 @@
 # lrn_pythn
-This directory consist to the projects under the use of python learning cncepts
+This directory consist to the projects under the use of python learning concepts
